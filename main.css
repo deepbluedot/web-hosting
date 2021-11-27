@@ -29,7 +29,7 @@ body {
 .v2033_628 {
   width: 100%;
   height: 400px;
-  background: rgba(255, 255, 255, 1);
+  /* background: rgba(255, 255, 255, 1); */
   opacity: 1;
   position: absolute;
   top: 4px;
@@ -39,7 +39,7 @@ body {
 .v2033_627 {
   width: 368px;
   height: 140px;
-  background: rgba(255, 255, 255, 1);
+  /* background: rgba(255, 255, 255, 1); */
   opacity: 1;
   position: absolute;
   left: 50%;
@@ -50,7 +50,7 @@ body {
 .v2040_1001 {
   width: 368px;
   height: 52px;
-  background: rgba(255, 255, 255, 1);
+  /* background: rgba(255, 255, 255, 1); */
   opacity: 1;
   position: relative;
   top: 0px;
