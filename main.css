@@ -3,72 +3,42 @@
 }
 body {
   font-size: 14px;
+  margin: 0px;
 }
-.v1769_65 {
+.v1974_1866 {
   width: 100%;
-  height: 98vh;
+  height: 1024px;
   background: rgba(246, 246, 246, 1);
   opacity: 1;
   position: relative;
   top: 0px;
   left: 0px;
+  margin: 0px;
   overflow: hidden;
 }
-.v1769_66 {
-  width: 37px;
-  color: rgba(22, 28, 45, 1);
-  position: absolute;
-  top: 1094px;
-  left: 2238px;
-  font-family: Noto Sans KR;
-  font-weight: Bold;
-  font-size: 20px;
-  opacity: 1;
-  text-align: left;
-}
-.v1769_68 {
+.v2029_885 {
   width: 100%;
-  height: 70px;
-  background: rgba(255, 255, 255, 1);
+  height: 4px;
+  background: rgba(45, 80, 249, 1);
   opacity: 1;
   position: relative;
   top: 0px;
   left: 0px;
-  border: 0px solid rgba(150, 150, 150, 1);
-  box-shadow: 0px 1px 3px
-    rgba(
-      0.08627451211214066,
-      0.10980392247438431,
-      0.1764705926179886,
-      0.11999999731779099
-    );
   overflow: hidden;
 }
-.v1769_69 {
+.v2033_628 {
   width: 100%;
-  height: 1px;
-  background: rgba(215, 215, 215, 1);
+  height: 400px;
+  background: rgba(255, 255, 255, 1);
   opacity: 1;
   position: absolute;
-  top: 69px;
+  top: 4px;
   left: 0px;
-  border: 1px solid rgba(225, 233, 242, 1);
+  overflow: hidden;
 }
-.v1769_91 {
-  width: 98px;
-  color: rgba(78, 91, 115, 1);
-  position: absolute;
-  top: 26px;
-  left: 45px;
-  font-family: Roboto;
-  font-weight: Bold;
-  font-size: 16px;
-  opacity: 1;
-  text-align: left;
-}
-.v1775_115 {
-  width: 459px;
-  height: 82px;
+.v2033_627 {
+  width: 368px;
+  height: 140px;
   background: rgba(255, 255, 255, 1);
   opacity: 1;
   position: absolute;
@@ -77,30 +47,33 @@ body {
   transform: translate(-50%, -50%);
   overflow: hidden;
 }
-.v1775_116 {
-  width: 459px;
-  height: 82px;
-  background: rgba(48, 79, 254, 1);
+.v2040_1001 {
+  width: 368px;
+  height: 52px;
+  background: rgba(255, 255, 255, 1);
   opacity: 1;
   position: relative;
   top: 0px;
   left: 0px;
-  border: 0px solid rgba(150, 150, 150, 1);
-  border-top-left-radius: 19px;
-  border-top-right-radius: 19px;
-  border-bottom-left-radius: 19px;
-  border-bottom-right-radius: 19px;
   overflow: hidden;
 }
-.v1775_117 {
-  width: 459px;
-  height: 82px;
-  color: rgba(255, 255, 255, 1);
+.name {
+  color: #fff;
+}
+.v1974_1874 {
+  width: 368px;
+  color: rgba(45, 80, 249, 1);
   position: absolute;
-  top: 32px;
-  font-family: Roboto;
-  font-weight: Medium;
-  font-size: 24px;
+  top: 64px;
+  left: 0px;
+  font-family: Noto Sans;
+  font-weight: Bold;
+  font-size: 30px;
   opacity: 1;
   text-align: center;
+}
+
+.v2033_629 {
+  display: block;
+  margin: auto;
 }
